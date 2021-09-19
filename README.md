@@ -1,5 +1,7 @@
 # Data Science Portfolio
 
+Repository containing portfolio of data science projects completed by me for academic and hobby purposes. Presented mostly as iPython Notebooks.
+
 ## Table of contents
 
 ### Data analysis
@@ -19,3 +21,7 @@
 ### Kaggle competitions
 
 * [Disaster tweets competition](kaggle_competitions/nlp_disaster): Supervised learning challenge to classify tweets and identifying whether they refer to a real disaster or not. Involves using NLP preprocessing and analysis, supervised machine learning models, and training a neural network for binary classification.
+
+---
+
+If you are interested in these projects or my academic work, visit my [academic website](https://juanrloaiza.github.io/academic/en/) or write to me at [juan.loaiza@urosario.edu.co](mailto:juan.loaiza@urosario.edu.co).
